@@ -1,4 +1,4 @@
-variable "files" {
+variable "fichier" {
   type =list(string)
   default = [ 
     "loop/salade.txt",
